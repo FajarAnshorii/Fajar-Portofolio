@@ -118,7 +118,7 @@ export default function ProjectsPage() {
             >
               <Image
                 src="/logo.png"
-                alt="Fajar Anshori Logo"
+                alt="JarDev Logo"
                 fill
                 className="object-contain"
               />

@@ -65,7 +65,7 @@ export default function ExperiencePage() {
             >
               <Image
                 src="/logo.png"
-                alt="Fajar Anshori Logo"
+                alt="JarDev Logo"
                 fill
                 className="object-contain"
               />
